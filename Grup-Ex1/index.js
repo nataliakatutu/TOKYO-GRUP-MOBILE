@@ -15,7 +15,7 @@
     for(let i =0; i< people.length; i++){
     console.log(people[i]);
     }
-    console.log("~~~~~~~~");
+    console.log("~~~~~~~~"); // hanya sebagai pembatas
 
     // nomor 2
 
