@@ -1,11 +1,11 @@
 /*
 |---------Nama Kelompok-------------|
-|Hendra Luntungan                   |
-|Natalia Katutu                     |
-|Sherren Kalalo                     |
-|Anjelita Kaminang                  |
-|Mia Sundah                         |
-|Cherlita Patuli                    |
+|1. Katutu, Natalia                 |
+|2. Kalalo, Sherren                 |
+|3. Kaminang, Anjelita              |
+|4. Patuli, Cherlita                |
+|5. Sundah, Mia                     |
+|6. Luntungan, Hendra               |
 |-----------------------------------|
 */
 
