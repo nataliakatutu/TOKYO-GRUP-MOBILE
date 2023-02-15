@@ -12,10 +12,10 @@
     
     // nomor 1
     
-    // for(let i =0; i< people.length; i++){
-    // console.log(people[i]);
-    // }
-    // console.log("~~~~~~~~");
+    for(let i =0; i< people.length; i++){
+    console.log(people[i]);
+    }
+    console.log("~~~~~~~~");
 
     // nomor 2
 
