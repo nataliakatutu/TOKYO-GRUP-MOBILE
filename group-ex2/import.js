@@ -21,7 +21,7 @@ Alasan menggunakan Module
 2.Penggunaan nama variable
 3.Reusable Code
 
-Module ini tidak bisa dijalankan jika akses file .html menggunakan url direktori local, tapi kita harus
+Module ini tidak bisa dijalankan apabila akses file .html menggunakan url direktori local, tapi kita harus
 menggunakan Live Server
 */
 
@@ -32,13 +32,13 @@ menggunakan Live Server
     'import' juga merupakan bagian dari module pada javaScript ES6, dianggap sebagai pasangan ekspor, karena fungsinya untuk menggunakan data yang di ekspor dari module lainnya. Sama halnya dengan ekspor, import juga bisa dilakukan terpisah atau digabung.
 */
 
-//Import anggota
+//Import Snggota
 import { anggota } from "./export.js";
 
 //Output dari anggota
 console.log("Nama-nama anggota Tokyo: ",...anggota); // Output: Nama-nama anggota Tokyo:  nat mia hen enji cher sher
 
-//import default
+//Import Default
 import aku from "./export.js";//menampilkan hasil export.js
 aku("Nataliaaaaa");
 
